@@ -1,0 +1,100 @@
+0
+a
+aa
+20,00
+1
+lote001
+0
+a
+aa
+20,00
+1
+lote001
+0
+a
+aa
+20,00
+1
+lote001
+===========================
+Código do produto: 0
+Nome do produto: asd
+
+Descrição: sadasda
+
+Preço: 204,00
+Quantidade: 1
+Lote: lote101===========================
+===========================
+Código do produto: 0
+Nome do produto: aa
+
+Descrição: aaaa
+
+Preço: 20,00
+Quantidade: 2
+Lote: lote001===========================
+===========================
+Código do produto: 0
+Nome do produto: a
+
+Descrição: aa
+
+Preço: 20,00
+Quantidade: 2
+Lote: lote001===========================
+===========================
+Código do produto: 0
+Nome do produto: a
+
+Descrição: aaa
+
+Preço: 20,00
+Quantidade: 1
+Lote: lote001===========================
+===========================
+Código do produto: 0
+Nome do produto: b
+
+Descrição: bbbbbb
+
+Preço: 10,00
+Quantidade: 1
+Lote: lote002===========================
+===========================
+Código do produto: 0
+Nome do produto: a
+
+Descrição: aaaa
+
+Preço: 20,00
+Quantidade: 1
+Lote: lote001===========================
+===========================
+Código do produto: 1
+Nome do produto: a
+
+Descrição: aaa
+
+Preço: 20,00
+Quantidade: 1
+Lote: lote001===========================
+===========================
+Código do produto: 2
+Nome do produto: b
+
+Descrição: bbbb
+
+Preço: 23,00
+Quantidade: 3
+Lote: lote002===========================
+===========================
+Código do produto: 1
+Nome do produto: a
+
+Descrição: aaa
+
+Preço: 20,00
+Quantidade: 1
+Lote: lote001
+===========================

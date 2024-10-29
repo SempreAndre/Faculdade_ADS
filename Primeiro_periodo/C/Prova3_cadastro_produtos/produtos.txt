@@ -1,0 +1,31 @@
+2024081033974655
+===========================
+Código do produto: 1
+Nome do produto: aaa
+
+Descrição: abc
+
+Preço: 10,00
+Quantidade: 15
+Lote: lote001
+===========================
+===========================
+Código do produto: 2
+Nome do produto: bbb
+
+Descrição: adef
+
+Preço: 30,00
+Quantidade: 50
+Lote: lote002
+===========================
+===========================
+Código do produto: 3
+Nome do produto: ccc
+
+Descrição: hij
+
+Preço: 60,00
+Quantidade: 25
+Lote: lote003
+===========================
